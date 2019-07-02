@@ -29,6 +29,8 @@ class GradientBack extends StatelessWidget{
             Color(0xFFffbb00),
             Color(0xFFf38c02)
           ],
+          begin: const FractionalOffset(1.0, 0.1),
+          end: const FractionalOffset(1.0, 0.9)
         )
       ),
     );
