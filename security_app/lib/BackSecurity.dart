@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart'
+import 'package:flutter/material.dart';
 
 class BackSecurity extends StatelessWidget{
   @override
@@ -14,8 +14,8 @@ class BackSecurity extends StatelessWidget{
             color: Colors.white,
           )
         )
-      ]
-    )
+      ],
+    );
   }
 }
 
@@ -28,9 +28,9 @@ class GradientBack extends StatelessWidget{
           colors: [
             Color(0xFFffbb00),
             Color(0xFFf38c02)
-          ]
+          ],
         )
-      )
-    )
+      ),
+    );
   }
 }
